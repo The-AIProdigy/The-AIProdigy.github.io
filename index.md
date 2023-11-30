@@ -25,9 +25,7 @@
 - [On-Demand Food Delivery](http://example.com/)
   <img src="images/food delivery.jpg?raw=true"/>
   
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+<!-- [Project 3 Title](http://example.com/) -->
 
 ---
 
