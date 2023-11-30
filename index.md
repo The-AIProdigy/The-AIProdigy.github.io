@@ -2,25 +2,29 @@
 
 ---
 
-### Category Name 1 
+### Predictive Modeling & Machine Learning
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Bank Churn Analysis & Prediction](/sample_page)
+<img src="images/Customer Churn.webp?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Customer Lifetime Value Prediction](/pdf/sample_presentation.pdf)
+<img src="images/clv.jpg?raw=true"/>
+
+---
+[Mobile Banking Prediction](http://example.com/)
+<img src="images/mobile-banking.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Data-Driven Decision Support
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
+- [Taxi Upfront Pricing Precision](http://example.com/)
+  <img src="images/Taxi.jpg?raw=true"/>
+  
+- [On-Demand Food Delivery](http://example.com/)
+  <img src="images/food delivery.jpg?raw=true"/>
+  
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
@@ -32,4 +36,4 @@
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+<!-- Remove the above link if you don't want to attribute -->
