@@ -4,7 +4,7 @@
 
 ### Predictive Modeling & Machine Learning
 
-[Bank Churn Analysis & Prediction](https://github.com/the-aiprodigy/Predictive-Modeling-Machine-Learning/blob/7a3807651e50e3042ea22f7017fdf09584a37308/Bank%20Churn%20Analysis%20%26%20Prediction/Detailed%20Bank%20Churn%20Analysis.ipynb)
+[Bank Churn Analysis & Prediction](https://github.com/the-aiprodigy/Predictive-Modeling-Machine-Learning/blob/7a3807651e50e3042ea22f7017fdf09584a37308/Bank%20Churn%20Analysis%20%26%20Prediction/Detailed%20Bank%20Churn%20Analysis.ipynb/)
 <img src="images/Customer Churn.webp?raw=true"/>
 
 ---
