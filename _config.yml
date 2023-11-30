@@ -1,13 +1,13 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: The AI Prodigy # your name (or website title) here
+logo: "/images/Avatar.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Welcome to my portfolio! I am a dedicated Data Scientist with a strong background in the FinTech industry. My journey in the world of data is driven by a deep passion for Data Product Management and crafting innovative solutions.
   <br><br>
-  Second description 
+   My portfolio showcases a proven track record of translating complex business challenges into actionable insights using statistical analysis, machine learning, and data visualization. I specialize in developing predictive models, crafting intuitive dashboards, and effectively communicating findings to technical and non-technical audiences. I am eager to embrace new challenges and contribute to the success of your projects. 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/mapenzi-supaki/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+google_analytics: UA-405123311-0 # your Google Analytics tracking ID here
