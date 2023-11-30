@@ -12,15 +12,15 @@
 <img src="images/clv.jpg?raw=true"/>
 
 ---
-[Mobile Banking Prediction](http://example.com/)
+[Mobile Banking Prediction](https://github.com/the-aiprodigy/DS-ML-AI-Competitions-and-Hackathons/tree/ed8507c17f3557a550b053ecb262a06cd9da4566/Zindi/iX%20Mobile%20Banking%20Prediction%20Challenge/)
 <img src="images/mobile-banking.jpg?raw=true"/>
 
 ---
 
 ### Data-Driven Decision Support
 
-- [Taxi Upfront Pricing Precision](http://example.com/)
-  <img src="images/Taxi.jpg?raw=true"/>
+- [Taxi Upfront Pricing Precision](https://github.com/the-aiprodigy/Data-Driven-Decision-Support/blob/fe14b48e4bd5c9c175019fb6ac7da37e6e4d3f51/Taxi%20Upfront%20Pricing%20Precision/code/final_code/taxi%20upfront%20pricing%20analysis_EDA.ipynb)
+<img src="images/Taxi.jpg?raw=true"/>
   
 - [On-Demand Food Delivery](http://example.com/)
   <img src="images/food delivery.jpg?raw=true"/>
