@@ -8,7 +8,7 @@
 <img src="images/Customer Churn.webp?raw=true"/>
 
 ---
-[Customer Lifetime Value Prediction](/pdf/sample_presentation.pdf)
+[Customer Lifetime Value Prediction](https://github.com/the-aiprodigy/Predictive-Modeling-Machine-Learning/blob/7a3807651e50e3042ea22f7017fdf09584a37308/Customer%20Lifetime%20Value%20Prediction/KaggleX-Showcase_Purity%20Supaki.pdf/)
 <img src="images/clv.jpg?raw=true"/>
 
 ---
